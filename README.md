@@ -1,5 +1,8 @@
 # Trippy-Viagens-Responsivo
-Para visualizar o projeto clique no link abaixo
+
+##Para visualizar o projeto clique no link abaixo
+- https://codesandbox.io/s/github/RianTMJ/Trippy-Viagens-Responsivo
+
 
 ![image](https://user-images.githubusercontent.com/81371744/209854906-c0b703ee-445e-457c-8d29-e951295f101c.png)
 ![image](https://user-images.githubusercontent.com/81371744/209854921-070e8217-dced-4afb-9903-32fe638e38b3.png)
