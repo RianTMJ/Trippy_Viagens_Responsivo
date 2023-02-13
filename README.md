@@ -1,7 +1,6 @@
 # Trippy-Viagens-Responsivo
 
-# Para visualizar o projeto clique no link abaixo
-- https://228ibz.csb.app/
+
 
 
 ![image](https://user-images.githubusercontent.com/81371744/209854906-c0b703ee-445e-457c-8d29-e951295f101c.png)
